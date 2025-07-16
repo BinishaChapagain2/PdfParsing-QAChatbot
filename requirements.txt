@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-gemini
+sentence-transformers
+streamlit
+unstructured
+unstructured[local-inference]
+transformers
+langchain-huggingface
+chromadb
